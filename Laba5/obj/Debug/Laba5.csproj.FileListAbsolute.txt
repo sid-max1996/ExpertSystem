@@ -1,0 +1,14 @@
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\bin\Debug\Laba5.exe.config
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\bin\Debug\Laba5.exe
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\bin\Debug\Laba5.pdb
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\bin\Debug\Newtonsoft.Json.dll
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\obj\Debug\Laba5.exe
+D:\4 курс\Интеллект Системы\Практика\Laba5\Laba5\obj\Debug\Laba5.pdb
+D:\_Desktop\Laba5\Laba5\bin\Debug\Laba5.exe.config
+D:\_Desktop\Laba5\Laba5\bin\Debug\Laba5.exe
+D:\_Desktop\Laba5\Laba5\bin\Debug\Laba5.pdb
+D:\_Desktop\Laba5\Laba5\bin\Debug\Newtonsoft.Json.dll
+D:\_Desktop\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
+D:\_Desktop\Laba5\Laba5\obj\Debug\Laba5.exe
+D:\_Desktop\Laba5\Laba5\obj\Debug\Laba5.pdb
